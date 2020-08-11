@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/crwn_shop_test/static/css/main.5b528f1b.chunk.css",
+    "main.js": "/crwn_shop_test/static/js/main.5810ed38.chunk.js",
+    "main.js.map": "/crwn_shop_test/static/js/main.5810ed38.chunk.js.map",
+    "runtime-main.js": "/crwn_shop_test/static/js/runtime-main.2536d5df.js",
+    "runtime-main.js.map": "/crwn_shop_test/static/js/runtime-main.2536d5df.js.map",
+    "static/js/2.e364114e.chunk.js": "/crwn_shop_test/static/js/2.e364114e.chunk.js",
+    "static/js/2.e364114e.chunk.js.map": "/crwn_shop_test/static/js/2.e364114e.chunk.js.map",
+    "index.html": "/crwn_shop_test/index.html",
+    "precache-manifest.794c2121b45b609bc5fdf7fba4730bf8.js": "/crwn_shop_test/precache-manifest.794c2121b45b609bc5fdf7fba4730bf8.js",
+    "service-worker.js": "/crwn_shop_test/service-worker.js",
+    "static/css/main.5b528f1b.chunk.css.map": "/crwn_shop_test/static/css/main.5b528f1b.chunk.css.map",
+    "static/js/2.e364114e.chunk.js.LICENSE.txt": "/crwn_shop_test/static/js/2.e364114e.chunk.js.LICENSE.txt",
+    "static/media/crown.19ef7b17.svg": "/crwn_shop_test/static/media/crown.19ef7b17.svg",
+    "static/media/shopping-bag.30f07071.svg": "/crwn_shop_test/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2536d5df.js",
+    "static/js/2.e364114e.chunk.js",
+    "static/css/main.5b528f1b.chunk.css",
+    "static/js/main.5810ed38.chunk.js"
+  ]
+}

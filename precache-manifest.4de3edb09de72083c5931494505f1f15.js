@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7466590c2c4c2f8c73c09f2c19a327d",
+    "revision": "cecc02983f2e62d8c510187d3c075ea7",
     "url": "/crwn_shop_test/index.html"
   },
   {
-    "revision": "e279f970f8c92e5c54a0",
+    "revision": "72cebce24b702a76f224",
     "url": "/crwn_shop_test/static/css/main.5b528f1b.chunk.css"
   },
   {
-    "revision": "192d3d01c9b17460e774",
-    "url": "/crwn_shop_test/static/js/2.e364114e.chunk.js"
+    "revision": "a23814e31af16ca4a533",
+    "url": "/crwn_shop_test/static/js/2.9d3d19f0.chunk.js"
   },
   {
     "revision": "d0b13a04dd0dc4c851ad16fad1cc6f51",
-    "url": "/crwn_shop_test/static/js/2.e364114e.chunk.js.LICENSE.txt"
+    "url": "/crwn_shop_test/static/js/2.9d3d19f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e279f970f8c92e5c54a0",
-    "url": "/crwn_shop_test/static/js/main.5810ed38.chunk.js"
+    "revision": "72cebce24b702a76f224",
+    "url": "/crwn_shop_test/static/js/main.b0c7c8ed.chunk.js"
   },
   {
     "revision": "8b919229bd360eafbebd",

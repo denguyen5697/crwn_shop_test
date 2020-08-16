@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/crwn_shop_test/static/css/main.5b528f1b.chunk.css",
-    "main.js": "/crwn_shop_test/static/js/main.b0c7c8ed.chunk.js",
-    "main.js.map": "/crwn_shop_test/static/js/main.b0c7c8ed.chunk.js.map",
+    "main.js": "/crwn_shop_test/static/js/main.83ccdcfd.chunk.js",
+    "main.js.map": "/crwn_shop_test/static/js/main.83ccdcfd.chunk.js.map",
     "runtime-main.js": "/crwn_shop_test/static/js/runtime-main.2536d5df.js",
     "runtime-main.js.map": "/crwn_shop_test/static/js/runtime-main.2536d5df.js.map",
-    "static/js/2.9d3d19f0.chunk.js": "/crwn_shop_test/static/js/2.9d3d19f0.chunk.js",
-    "static/js/2.9d3d19f0.chunk.js.map": "/crwn_shop_test/static/js/2.9d3d19f0.chunk.js.map",
+    "static/js/2.2ee395cf.chunk.js": "/crwn_shop_test/static/js/2.2ee395cf.chunk.js",
+    "static/js/2.2ee395cf.chunk.js.map": "/crwn_shop_test/static/js/2.2ee395cf.chunk.js.map",
     "index.html": "/crwn_shop_test/index.html",
-    "precache-manifest.4de3edb09de72083c5931494505f1f15.js": "/crwn_shop_test/precache-manifest.4de3edb09de72083c5931494505f1f15.js",
+    "precache-manifest.0a483332a0ca3480d3c7346062b0049e.js": "/crwn_shop_test/precache-manifest.0a483332a0ca3480d3c7346062b0049e.js",
     "service-worker.js": "/crwn_shop_test/service-worker.js",
     "static/css/main.5b528f1b.chunk.css.map": "/crwn_shop_test/static/css/main.5b528f1b.chunk.css.map",
-    "static/js/2.9d3d19f0.chunk.js.LICENSE.txt": "/crwn_shop_test/static/js/2.9d3d19f0.chunk.js.LICENSE.txt",
+    "static/js/2.2ee395cf.chunk.js.LICENSE.txt": "/crwn_shop_test/static/js/2.2ee395cf.chunk.js.LICENSE.txt",
     "static/media/crown.19ef7b17.svg": "/crwn_shop_test/static/media/crown.19ef7b17.svg",
     "static/media/shopping-bag.30f07071.svg": "/crwn_shop_test/static/media/shopping-bag.30f07071.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2536d5df.js",
-    "static/js/2.9d3d19f0.chunk.js",
+    "static/js/2.2ee395cf.chunk.js",
     "static/css/main.5b528f1b.chunk.css",
-    "static/js/main.b0c7c8ed.chunk.js"
+    "static/js/main.83ccdcfd.chunk.js"
   ]
 }

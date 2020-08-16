@@ -1,5 +1,5 @@
-import styled from 'styled-components';
-import CustomButton from '../custom-button/custom-button.component';
+import styled from "styled-components";
+import CustomButton from "../custom-button/custom-button.component";
 
 export const CollectionItemContainer = styled.div`
   width: 22vw;
@@ -49,9 +49,12 @@ export const CollectionFooterContainer = styled.div`
 export const NameContainer = styled.span`
   width: 90%;
   margin-bottom: 15px;
+  font-weight: bold;
 `;
 
 export const PriceContainer = styled.span`
-  width: 10%;
+  width: 15%;
   text-align: right;
+  font-weight: bold;
+
 `;

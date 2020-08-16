@@ -9,7 +9,7 @@ const config = {
   projectId: "crwn-db-e2640",
   storageBucket: "crwn-db-e2640.appspot.com",
   messagingSenderId: "690616906833",
-  appId: "1:690616906833:web:d4ad38fde489ba93363470",
+  appId: "1:690616906833:web:d4ad38fde489ba93363470"
 };
 
 firebase.initializeApp(config);
@@ -29,7 +29,7 @@ export const createUserProfileDocument = async (userAuth, additionalData) => {
         displayName,
         email,
         createdAt,
-        ...additionalData,
+        ...additionalData
       });
     } catch (error) {
       console.log("Error creating user", error.message);
@@ -62,7 +62,7 @@ export const convertCollectionsSnapshotToMap = (collections) => {
       routeName: encodeURI(title.toLowerCase()),
       id: doc.id,
       title,
-      items,
+      items
     };
   });
 
@@ -72,11 +72,20 @@ export const convertCollectionsSnapshotToMap = (collections) => {
   }, {});
 };
 
+export const getCurrentUser = () => {
+  return new Promise((resolve, reject) => {
+    const unsubscribe = auth.onAuthStateChanged((userAuth) => {
+      unsubscribe();
+      resolve(userAuth);
+    }, reject);
+  });
+};
+
 export const auth = firebase.auth();
 export const firestore = firebase.firestore();
 
-const provider = new firebase.auth.GoogleAuthProvider();
-provider.setCustomParameters({ prompt: "select_account" });
-export const signInWithGoogle = () => auth.signInWithPopup(provider);
+export const googleProvider = new firebase.auth.GoogleAuthProvider();
+googleProvider.setCustomParameters({ prompt: "select_account" });
+export const signInWithGoogle = () => auth.signInWithPopup(googleProvider);
 
 export default firebase;

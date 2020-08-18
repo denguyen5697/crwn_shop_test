@@ -34,6 +34,11 @@ const App = ({ checkUserSession, currentUser }) => {
             currentUser ? <Redirect to="/" /> : <SignInAndSignUpPage />
           }
         />
+        <Route
+          exact
+          path="/crwn_shop_test"
+          render={() => <Redirect to="/" />}
+        />
       </Switch>
     </div>
   );

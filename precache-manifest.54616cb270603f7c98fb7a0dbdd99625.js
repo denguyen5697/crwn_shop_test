@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92570c5e35a5f2beee726b712b4104b8",
+    "revision": "ec39235b211345dcdc7bd1767a329fe9",
     "url": "/crwn_shop_test/index.html"
   },
   {
-    "revision": "e3efe1a728fcb0c28483",
-    "url": "/crwn_shop_test/static/css/main.5b528f1b.chunk.css"
+    "revision": "3064d58aa5712f91f655",
+    "url": "/crwn_shop_test/static/css/main.6d426688.chunk.css"
   },
   {
     "revision": "36d5eb522226cf4ca901",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crwn_shop_test/static/js/2.2ee395cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3efe1a728fcb0c28483",
-    "url": "/crwn_shop_test/static/js/main.68443fd4.chunk.js"
+    "revision": "3064d58aa5712f91f655",
+    "url": "/crwn_shop_test/static/js/main.d8413df2.chunk.js"
   },
   {
     "revision": "8b919229bd360eafbebd",

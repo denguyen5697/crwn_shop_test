@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/crwn_shop_test/static/css/main.5b528f1b.chunk.css",
-    "main.js": "/crwn_shop_test/static/js/main.68443fd4.chunk.js",
-    "main.js.map": "/crwn_shop_test/static/js/main.68443fd4.chunk.js.map",
+    "main.css": "/crwn_shop_test/static/css/main.6d426688.chunk.css",
+    "main.js": "/crwn_shop_test/static/js/main.d8413df2.chunk.js",
+    "main.js.map": "/crwn_shop_test/static/js/main.d8413df2.chunk.js.map",
     "runtime-main.js": "/crwn_shop_test/static/js/runtime-main.2536d5df.js",
     "runtime-main.js.map": "/crwn_shop_test/static/js/runtime-main.2536d5df.js.map",
     "static/js/2.2ee395cf.chunk.js": "/crwn_shop_test/static/js/2.2ee395cf.chunk.js",
     "static/js/2.2ee395cf.chunk.js.map": "/crwn_shop_test/static/js/2.2ee395cf.chunk.js.map",
     "index.html": "/crwn_shop_test/index.html",
-    "precache-manifest.e9219e7b94f6671f197f877705ffe8c2.js": "/crwn_shop_test/precache-manifest.e9219e7b94f6671f197f877705ffe8c2.js",
+    "precache-manifest.54616cb270603f7c98fb7a0dbdd99625.js": "/crwn_shop_test/precache-manifest.54616cb270603f7c98fb7a0dbdd99625.js",
     "service-worker.js": "/crwn_shop_test/service-worker.js",
-    "static/css/main.5b528f1b.chunk.css.map": "/crwn_shop_test/static/css/main.5b528f1b.chunk.css.map",
+    "static/css/main.6d426688.chunk.css.map": "/crwn_shop_test/static/css/main.6d426688.chunk.css.map",
     "static/js/2.2ee395cf.chunk.js.LICENSE.txt": "/crwn_shop_test/static/js/2.2ee395cf.chunk.js.LICENSE.txt",
     "static/media/crown.19ef7b17.svg": "/crwn_shop_test/static/media/crown.19ef7b17.svg",
     "static/media/shopping-bag.30f07071.svg": "/crwn_shop_test/static/media/shopping-bag.30f07071.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.2536d5df.js",
     "static/js/2.2ee395cf.chunk.js",
-    "static/css/main.5b528f1b.chunk.css",
-    "static/js/main.68443fd4.chunk.js"
+    "static/css/main.6d426688.chunk.css",
+    "static/js/main.d8413df2.chunk.js"
   ]
 }
